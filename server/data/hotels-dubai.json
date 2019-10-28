@@ -1,0 +1,48 @@
+{
+	"hotels": {
+		"dubaiHotels": [
+			{
+				"title":"Five Jumeirah Village",
+				"titleUrl":"five-jumeirah-village",
+				"price":"От 60 845 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб.",
+				"img":"city-uae/dubai-hotels/five-jumeirah-village/1.jpg"
+			},
+			{
+				"title":"Ibis Ai Rigga",
+				"titleUrl":"ibis-ai-rigga",
+				"price":"От 74 987 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники, позволяющие рыбам.",
+				"img":"city-uae/dubai-hotels/ibis-ai-rigga/1.jpg"
+			},
+			{
+				"title":"Oceana Residences, The Palm Jumeirah",
+				"titleUrl":"oceana-residences-the-palm-jumeirah",
+				"price":"От 54 654 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов.",
+				"img":"city-uae/dubai-hotels/oceana-residences-the-palm-jumeirah/1.jpg"
+			},
+			{
+				"title":"Savoy suites Hotel Apartment",
+				"titleUrl":"savoy-suites-hotel-apartment",
+				"price":"От 63 120 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники.",
+				"img":"city-uae/dubai-hotels/savoy-suites-hotel-apartment/1.jpg"
+			},
+			{
+				"title":"Two Seasons Hotel (Former Gloria)",
+				"titleUrl":"two-seasons-hotel",
+				"price":"От 63 830 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является.",
+				"img":"city-uae/dubai-hotels/two-seasons-hotel/1.jpg"
+			},
+			{
+				"title":"Yanjoon Holiday Homes - Marina Heights",
+				"titleUrl":"yanjoon-holiday-homes-marina-heights",
+				"price":"От 50 779 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб.",
+				"img":"city-uae/dubai-hotels/yanjoon-holiday-homes-marina-heights/1.jpg"
+			}
+		]
+	}
+}

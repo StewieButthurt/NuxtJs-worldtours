@@ -1,0 +1,41 @@
+{
+	"hotels": {
+		"antalyaHotels": [
+			{
+				"title":"Akra Hotel",
+				"titleUrl":"akra-hotel",
+				"price":"От 45 845 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб.",
+				"img":"city-turkey/antalya-hotels/akra-hotel/1.jpg"
+			},
+			{
+				"title":"Hotel SU & Aqualand",
+				"titleUrl":"hotel-su-&-aqualand",
+				"price":"От 38 987 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники, позволяющие рыбам.",
+				"img":"city-turkey/antalya-hotels/hotel-su-&-aqualand/1.jpg"
+			},
+			{
+				"title":"Ramada Plaza Antalya",
+				"titleUrl":"ramada-plaza-antalya",
+				"price":"От 46 654 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов.",
+				"img":"city-turkey/antalya-hotels/ramada-plaza-antalya/1.jpg"
+			},
+			{
+				"title":"Sealife Family Resort Hotel",
+				"titleUrl":"sealife-family-resort-hotel",
+				"price":"От 67 120 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники.",
+				"img":"city-turkey/antalya-hotels/sealife-family-resort-hotel/1.jpg"
+			},
+			{
+				"title":"White Garden Hotel",
+				"titleUrl":"white-garden-hotel",
+				"price":"От 44 830 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является.",
+				"img":"city-turkey/antalya-hotels/white-garden-hotel/1.jpg"
+			}
+		]
+	}
+}

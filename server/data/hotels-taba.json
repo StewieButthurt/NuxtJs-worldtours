@@ -1,0 +1,34 @@
+{
+	"hotels": {
+		"tabaHotels": [
+			{
+				"title":"Mosaique Beach Resort Taba Heights",
+				"titleUrl":"mosaique-beach-resort-taba-heights",
+				"price":"От 56 645 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб.",
+				"img":"city-egypt/taba-hotels/mosaique-beach-resort-taba-heights/1.jpg"
+			},
+			{
+				"title":"Strand Beach & Golf Resort Taba Heights",
+				"titleUrl":"strand-beach-&-golf-resort-taba-heights",
+				"price":"От 40 687 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники, позволяющие рыбам.",
+				"img":"city-egypt/taba-hotels/strand-beach-&-golf-resort-taba-heights/1.jpg"
+			},
+			{
+				"title":"Taba Hotel & Nelson Village",
+				"titleUrl":"taba-hotel-&-nelson-village",
+				"price":"От 43 587 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов.",
+				"img":"city-egypt/taba-hotels/taba-hotel-&-nelson-village/1.jpg"
+			},
+			{
+				"title":"Taba Sands Hotel & Casino",
+				"titleUrl":"taba-sands-hotel-&-casino",
+				"price":"От 53 745 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники.",
+				"img":"city-egypt/taba-hotels/taba-sands-hotel-&-casino/1.jpg"
+			}
+		]
+	}
+}

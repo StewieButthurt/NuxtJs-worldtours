@@ -1,0 +1,55 @@
+{
+	"hotels": {
+		"abuDhabiHotels": [
+			{
+				"title":"Aloft Abu Dhabi",
+				"titleUrl":"aloft-abu-dhabi",
+				"price":"От 65 745 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб.",
+				"img":"city-uae/abu-dhabi-hotels/aloft-abu-dhabi/1.jpg"
+			},
+			{
+				"title":"Bab Al Qasr Hotel",
+				"titleUrl":"bab-al-qasr-hotel",
+				"price":"От 54 987 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники, позволяющие рыбам",
+				"img":"city-uae/abu-dhabi-hotels/bab-al-qasr-hotel/1.jpg"
+			},
+			{
+				"title":"Centro Yas Island-by Rotana",
+				"titleUrl":"centro-yas-island-by-rotana",
+				"price":"От 67 654 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов.",
+				"img":"city-uae/abu-dhabi-hotels/centro-yas-island-by-rotana/1.jpg"
+			},
+			{
+				"title":"Cristal Hotel",
+				"titleUrl":"cristal-hotel",
+				"price":"От 44 120 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники.",
+				"img":"city-uae/abu-dhabi-hotels/cristal-hotel/1.jpg"
+			},
+			{
+				"title":"Grand Millennium Al Wanda Abu Dhabi",
+				"titleUrl":"grand-millennium-al-wahda-abu-dhabi",
+				"price":"От 66 830 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является",
+				"img":"city-uae/abu-dhabi-hotels/grand-millennium-al-wahda-abu-dhabi/1.jpg"
+			},
+			{
+				"title":"Khalidiya Hotel",
+				"titleUrl":"khalidiya-hotel",
+				"price":"От 50 779 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб.",
+				"img":"city-uae/abu-dhabi-hotels/khalidiya-hotel/1.jpg"
+			},
+			{
+				"title":"Park Arjaan by Rotana",
+				"titleUrl":"park-arjaan-by-rotana",
+				"price":"От 50 779 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб.",
+				"img":"city-uae/abu-dhabi-hotels/park-arjaan-by-rotana/1.jpg"
+			}
+		]
+	}
+}

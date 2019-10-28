@@ -1,0 +1,41 @@
+{
+	"hotels": {
+		"istanbulHotels": [
+			{
+				"title":"Avantgarde Hotel Levent",
+				"titleUrl":"avantgarde-hotel-levent",
+				"price":"От 45 845 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб.",
+				"img":"city-turkey/istanbul-hotels/avantgarde-hotel-levent/1.jpg"
+			},
+			{
+				"title":"Dila Hotel",
+				"titleUrl":"dila-hotel",
+				"price":"От 38 987 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники, позволяющие рыбам.",
+				"img":"city-turkey/istanbul-hotels/dila-hotel/1.jpg"
+			},
+			{
+				"title":"Elite World Asia Hotel",
+				"titleUrl":"elite-world-asia-hotel",
+				"price":"От 46 654 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов.",
+				"img":"city-turkey/istanbul-hotels/elite-world-asia-hotel/1.jpg"
+			},
+			{
+				"title":"Güneş Hotel Merter",
+				"titleUrl":"güneş-hotel-merter",
+				"price":"От 67 120 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники.",
+				"img":"city-turkey/istanbul-hotels/güneş-hotel-merter/1.jpg"
+			},
+			{
+				"title":"Pell Palace Hotel & SPA",
+				"titleUrl":"pell-palace-hotel-&-spa",
+				"price":"От 44 830 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является.",
+				"img":"city-turkey/istanbul-hotels/pell-palace-hotel-&-spa/1.jpg"
+			}
+		]
+	}
+}

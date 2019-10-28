@@ -1,0 +1,41 @@
+{
+	"hotels": {
+		"bangkokHotels": [
+			{
+				"title":"Centra by Centara Government Complex Hotel & Covention Centre Chaeng Watthana",
+				"titleUrl":"centra-by-centara-government-complex-hotel-&-covention-centre-chaeng-watthana",
+				"price":"От 45 845 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб.",
+				"img":"city-thailand/bangkok-hotels/centra-by-centara-government-complex-hotel-&-covention-centre-chaeng-watthana/1.jpg"
+			},
+			{
+				"title":"Graceland Bangkok by Grace Hotel",
+				"titleUrl":"graceland-bangkok-by-grace-hotel",
+				"price":"От 38 987 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники, позволяющие рыбам.",
+				"img":"city-thailand/bangkok-hotels/graceland-bangkok-by-grace-hotel/1.jpg"
+			},
+			{
+				"title":"Royal Benja Hotel",
+				"titleUrl":"royal-benja-hotel",
+				"price":"От 46 654 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов.",
+				"img":"city-thailand/bangkok-hotels/royal-benja-hotel/1.jpg"
+			},
+			{
+				"title":"The Green Bells",
+				"titleUrl":"the-green-bells",
+				"price":"От 67 120 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники.",
+				"img":"city-thailand/bangkok-hotels/the-green-bells/1.jpg"
+			},
+			{
+				"title":"Vince Hotel Pratunam",
+				"titleUrl":"vince-hotel-pratunam",
+				"price":"От 44 830 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является.",
+				"img":"city-thailand/bangkok-hotels/vince-hotel-pratunam/1.jpg"
+			}
+		]
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"hotels": {
+		"florenceHotels": [
+			{
+				"title":"Affittacamere Serena",
+				"titleUrl":"affittacamere-serena",
+				"price":"От 65 745 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб.",
+				"img":"city-italy/florence-hotels/affittacamere-serena/1.jpg"
+			},
+			{
+				"title":"Athenaeum Personal Hotel",
+				"titleUrl":"athenaeum-personal-hotel",
+				"price":"От 54 987 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники, позволяющие рыбам.",
+				"img":"city-italy/florence-hotels/athenaeum-personal-hotel/1.jpg"
+			},
+			{
+				"title":"Hotel Rapallo",
+				"titleUrl":"hotel-rapallo",
+				"price":"От 67 654 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов.",
+				"img":"city-italy/florence-hotels/hotel-rapallo/1.jpg"
+			},
+			{
+				"title":"Hotel Villa Gabriele D-Annunzio",
+				"titleUrl":"hotel-villa-gabriele-d-annunzio",
+				"price":"От 44 120 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники.",
+				"img":"city-italy/florence-hotels/hotel-villa-gabriele-d-annunzio/1.jpg"
+			},
+			{
+				"title":"Luxury B&B La Dimora Degli Angeli",
+				"titleUrl":"luxury-b-&-b-la-dimora-degli-angeli",
+				"price":"От 66 830 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является.",
+				"img":"city-italy/florence-hotels/luxury-b-&-b-la-dimora-degli-angeli/1.jpg"
+			},
+			{
+				"title":"Tornabuoni Suites Collection Residenza D-Epoca",
+				"titleUrl":"tornabuoni-suites-collection-residenza-d-epoca",
+				"price":"От 50 779 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб.",
+				"img":"city-italy/florence-hotels/tornabuoni-suites-collection-residenza-d-epoca/1.jpg"
+			}
+		]
+	}
+}

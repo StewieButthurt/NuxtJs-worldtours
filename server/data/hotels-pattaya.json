@@ -1,0 +1,41 @@
+{
+	"hotels": {
+		"pattayaHotels": [
+			{
+				"title":"At Mind Serviced Residence",
+				"titleUrl":"at-mind-serviced-residence",
+				"price":"От 45 845 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб.",
+				"img":"city-thailand/pattaya-hotels/at-mind-serviced-residence/1.jpg"
+			},
+			{
+				"title":"Centara Azure Hotel Pattaya",
+				"titleUrl":"centara-azure-hotel-pattaya",
+				"price":"От 38 987 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники, позволяющие рыбам.",
+				"img":"city-thailand/pattaya-hotels/centara-azure-hotel-pattaya/1.jpg"
+			},
+			{
+				"title":"D@Sea Hotel",
+				"titleUrl":"d@sea-hotel",
+				"price":"От 46 654 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов.",
+				"img":"city-thailand/pattaya-hotels/d@sea-hotel/1.jpg"
+			},
+			{
+				"title":"E-outfitting Boutique Hotel Pattaya",
+				"titleUrl":"e-outfitting-boutique-hotel-pattaya",
+				"price":"От 67 120 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники.",
+				"img":"city-thailand/pattaya-hotels/e-outfitting-boutique-hotel-pattaya/1.jpg"
+			},
+			{
+				"title":"Manita Boutique Hotel",
+				"titleUrl":"manita-boutique-hotel",
+				"price":"От 44 830 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является.",
+				"img":"city-thailand/pattaya-hotels/manita-boutique-hotel/1.jpg"
+			}
+		]
+	}
+}

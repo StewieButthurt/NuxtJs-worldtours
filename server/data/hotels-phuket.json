@@ -1,0 +1,34 @@
+{
+	"hotels": {
+		"phuketHotels": [
+			{
+				"title":"Ibis Styles Phuket City",
+				"titleUrl":"ibis-styles-phuket-city",
+				"price":"От 45 845 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб.",
+				"img":"city-thailand/phuket-hotels/ibis-styles-phuket-city/1.jpg"
+			},
+			{
+				"title":"iPavilion Phuket Hotel",
+				"titleUrl":"ipavilion-phuket-hotel",
+				"price":"От 38 987 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники, позволяющие рыбам.",
+				"img":"city-thailand/phuket-hotels/ipavilion-phuket-hotel/1.jpg"
+			},
+			{
+				"title":"Rang Hill Residence",
+				"titleUrl":"rang-hill-residence",
+				"price":"От 46 654 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов.",
+				"img":"city-thailand/phuket-hotels/rang-hill-residence/1.jpg"
+			},
+			{
+				"title":"Vapa Hotel",
+				"titleUrl":"vapa-hotel",
+				"price":"От 67 120 руб.",
+				"descr":"Летучие рыбы, или двукрыловые — семейство морских лучепёрых рыб отряда сарганообразных, в состав которого включают 71 вид, сгруппированных в 8 родов. Отличительной особенностью рыб является их необычно большие грудные плавники.",
+				"img":"city-thailand/phuket-hotels/vapa-hotel/1.jpg"
+			}
+		]
+	}
+}
