@@ -1,25 +1,27 @@
-# toursV2
+Некоммерческий проект [worldtours](https://worldtours.herokuapp.com/)<br><br>
+Проект развернут на бесплатном сервисе [heroku](https://www.heroku.com/)<br><br>
+При создании проекта, использовался стек технологий
+- NuxtJs (Vue)
+- NodeJs (express)
+- smart-grid
+- Sass
 
-> My beautiful Nuxt.js project
+Так же использовались вспомогательные модули из npm, список который вы можете найти в **package.json**
 
-## Build Setup
+## Почему NuxtJs? 
+Проект создавался в ~~соляново~~ одиночку, а Nuxt дает возможность писать full-stack приложение. По мимо этого в нем используется подход формирования DOM на стороне сервера SSR (Server Side Rendering), что очень хорошо для SEO.
 
-``` bash
-# install dependencies
-$ npm run install
+## Smartgrid 
+Да, я извращенец. Для адаптива использую его, так как он удобен. Описывать свойства css в классе, с использованием миксинов от Sass, мне кажется более удобным, нежели добавлять дополнительные классы к элементам (bootstrap). Вообще [smart-grid](https://github.com/dmitry-lavrik/smart-grid) штука очень крутая, и на мой взгляд недооцененная.
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+## Введение
+Дизайн макет разрабатывался дизайнером [Kira Rimalo](https://www.instagram.com/rimalo_k/).<br>
+Основной язык проекта - русский.<br>
+Проект является многостраничным приложением, работающий без перезагрузки страницы (MPA), и предусматривает в себе наличие страниц:
+- Презентация ('\')
+- Туры ('\tours')
+- О нас ('\about')
+- Контакты ('\contacts')
+- Страница с обратной связью ('\form')
 
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-
-
-https://worldtours.herokuapp.com/
+Имеется адаптивная верстка под разные экраны. От 340px до 1920px
